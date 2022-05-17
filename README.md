@@ -1,6 +1,8 @@
 # BlockDiagram
 
-C# Windows Forms app for creating and editing block diagrams
+C# Windows Forms app for creating and editing block diagrams.
+
+Created as a university project at Warsaw University of Technology.
 
 ## Features
 - Saving diagram to a file with serialization
